@@ -1,0 +1,229 @@
+body {
+    background: #99CC99;
+}
+
+aside {
+    float: left;
+    background: wheat;
+    width: 20%;
+    padding: 2.5%;
+    height: 1000vh;
+    color: black;
+    border-right: 5px solid papayawhip;
+}
+
+aside img {
+    width: 70px;
+    float: left;
+}
+
+aside .trends2023 {
+    font-size: 20px;
+    margin-left: 10px;
+    font-weight: bold;
+    position: relative;
+    top: -5px;
+}
+
+aside h4 {
+
+    margin-top: 60px;
+    font-size: 23px;
+}
+
+aside ul {list-style: none}
+aside ul li {
+    color: black;
+    display: block;
+    text-decoration: none;
+    margin-top: 20px;
+    transition: all .6s ease;
+
+}
+aside ul li:hover, aside ul a:hover {
+    color: #99CC66;
+    text-decoration: none;
+    transform: scale(1.05);
+
+}
+
+main .features {
+    float: left;
+    color: black;
+    margin-top: 100px;
+    text-align: center;
+    width: 75%;
+
+}
+
+main .features h2 {font-size: 35px; font-family:Georgia, 'Times New Roman', Times, serif; text-shadow: 1px 1px 1px black;}
+
+main .features p {font-size: 17px; font-family:Georgia, 'Times New Roman', Times, serif}
+.content{
+    width:400px;
+    height:400px;
+    display:flex;
+    position:absolute;
+    margin-left:45%;
+    top:40%;
+}
+
+.content2{
+    width:300px;
+    height:300px;
+    position:absolute;
+    display:flex;
+    left:530px;
+    top:830px;
+}
+
+.content3{
+    width:400px;
+    height:400px;
+    position:absolute;
+    display:flex;
+    left:610px;
+    top:1270px
+}
+
+.content4{
+    position: absolute;
+    display: flex;
+    width: 400px;
+    height: 400px;
+    left: 612px;
+    top: 1800px;
+}
+
+.content5{
+    position: absolute;
+    display: flex;
+    width: 400px;
+    height: 400px;
+    left: 612px;
+    top: 2315px;
+}
+
+.content6{
+    position: absolute;
+    display: flex;
+    width: 500px;
+    height: 450px;
+    left: 612px;
+    top: 2750px;
+
+}
+
+.content7{
+    position: absolute;
+    display: flex;
+    width: 500px;
+    height: 450px;
+    left: 612px;
+    top: 3310px;
+
+}
+.content8{
+    position: absolute;
+    display: flex;
+    width: 500px;
+    height: 450px;
+    left: 612px;
+    top: 3870px;
+
+}
+
+.content9{
+    position: absolute;
+    display: flex;
+    width: 600px;
+    height: 500px;
+    left: 650px;
+    top: 4350px;
+
+}
+
+
+main .textblock{
+    display: flex;
+    position:absolute;
+    width:1000px;
+    left:298px;
+    top:710px;
+}
+
+main .textblock p{
+    text-align: center;
+    font-size: 17px; font-family:Georgia, 'Times New Roman', Times, serif; color: black;
+    
+}
+
+main .features span{
+    color:#999900;
+}
+
+main .textbox p{
+    display: flex;
+    position: absolute;
+    width: 1000px;
+    left: 298px;
+    top: 1150px;
+}
+
+main .textbox p{
+    text-align: center;
+    font-size: 17px; font-family: Georgia, 'Times New Roman', Times, serif; color: black;
+}
+
+main .textbox1 p{
+    display: flex;
+    position: absolute;
+    width: 1000px;
+    left: 298px;
+    top: 1700px;
+
+}
+main .textbox1 p{
+    text-align: center;
+    font-size: 17px; font-family: Georgia, 'Times New Roman', Times, serif; color:black; 
+}
+
+main .textbox2 p{
+    display: flex;
+    position: absolute;
+    width: 1000px;
+    left: 298px;
+    top: 2220px;
+
+}
+main .textbox2 p{
+    text-align: center;
+    font-size: 17px; font-family: Georgia, 'Times New Roman', Times, serif; color: black;
+}
+
+main .textbox3 p{
+    display: flex;
+    position: absolute;
+    width: 1000px;
+    left: 298px;
+    top: 3215px;
+
+}
+main .textbox3 p{
+    text-align: center;
+    font-size: 17px; font-family: Georgia, 'Times New Roman', Times, serif; color: black;
+}
+
+main .textbox4 p{
+    display: flex;
+    position: absolute;
+    width: 1000px;
+    left: 298px;
+    top: 3800px;
+}
+
+main .textbox4 p{
+    text-align: center;
+    font-size: 17px; font-family: Georgia, 'Times New Roman', Times, serif; color: black;
+}
+
